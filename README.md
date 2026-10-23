@@ -21,26 +21,6 @@ This project analyzes customer churn in a telecommunications dataset using Pytho
 - Scikit-learn
 - Jupyter Notebook / Google Colab
 
-- ## Dataset
-
-This project uses the Telco Customer Churn dataset, which contains customer demographics, account information, subscribed services, billing details, and churn status.
-
-The dataset is not included in this repository. Obtain the original dataset from a publicly available source and place the required CSV file in the project directory. Update the file path in the Python script if necessary.
-
-## How to Run the Project
-
-1. Clone or download this repository.
-2. Install the required Python libraries:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Place the dataset CSV file in the appropriate directory.
-4. Run the Python script in Jupyter Notebook, Google Colab, or a Python environment.
-
-Ensure the dataset filename and file path match those used in the script.
-
 ## Key Findings
 
 - Overall customer churn rate: 26.5%.
